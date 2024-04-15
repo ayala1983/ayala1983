@@ -8,6 +8,7 @@ namespace WagoControl
     {
         static async Task Main(string[] args)
         {
+            //Comentario para segundo commit 
             // Variables declaradas, dirección IP de Wago y puerto de comunicación
             string ipAddress = "192.168.100.19";
             int port = 502;
